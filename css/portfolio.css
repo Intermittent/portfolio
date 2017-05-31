@@ -1,0 +1,19 @@
+body {
+	width: 300px;
+    border: 25px gray;
+    padding: 25px;
+    margin: 25px;
+    background: white;
+    text-align: center;
+}
+
+nav {
+    width: 600px;
+    border: 125px gray;
+    padding: 200px;
+    margin: -50px;
+    background: grey;
+    text-align: center;
+}
+
+footer { position: fixed; bottom: 0; }
